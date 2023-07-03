@@ -1,0 +1,24 @@
+.btn{
+    background-color:green !important;
+}
+.btn2{
+    background-color:red !important;
+}
+.cu{
+text-align: center;
+}
+.cuu a{
+    text-decoration: none !important;
+    color: white !important;
+}
+.cc{
+    width:300px !important;
+    height: 300px;
+    background-color: black;
+}
+.ib{
+    width: 260px !important;
+    margin-top: 20px;
+    height: 40px !important;
+    
+}
